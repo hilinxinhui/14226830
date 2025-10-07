@@ -1,4 +1,5 @@
 .DS_Store
 
+datasets/*.json
 datasets/*.zip
 datasets/*.csv
